@@ -2,7 +2,7 @@
 iao diện hệ thống
 -Giao diện đăng nhập
 
-Người dùng khi bắt đầu vào hệ thống cần có tài khoản đăng nhập gồm các thuộc tính (tên đăng nhập , mật khẩu) người dùng click vào ô text để nhập thông tin. Nhập xong người dùng click “Login”, hệ thống kiểm tra  thông tin 
+Người dùng khi bắt đầu vào hệ thống cần có tài khoản đăng nhập gồm các thuộc tính (tên đăng nhập:admin , mật khẩu: admin) người dùng click vào ô text để nhập thông tin. Nhập xong người dùng click “Login”, hệ thống kiểm tra  thông tin 
 + Nếu thông tin chính xác thông báo đăng nhập thành công -> chuyển giao diện “Trang chủ”.
 + Nếu thông tin chưa chính xác hiện thông báo lỗi cho người dùng biết.
 -Giao diện trang chủ
